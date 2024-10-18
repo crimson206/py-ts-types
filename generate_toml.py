@@ -233,7 +233,7 @@ options = Options(
 )
 
 dependencies = """
-
+crimson-ast-dev-tool
 """
 
 
@@ -245,7 +245,7 @@ dependencies = split_dependencies(dependencies)
 
 # Define the general information of your package
 
-repo_name = module_name = "module_name"
+repo_name = module_name = "py-ts-types"
 
 kwargs = Kwargs(
     name="Sisung Kim",
