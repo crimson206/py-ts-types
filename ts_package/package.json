@@ -1,0 +1,21 @@
+{
+  "name": "py-ts-types",
+  "version": "0.1.0",
+  "description": "Type mapping between Python and Typescript",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "yarn build"
+  },
+  "repository": "https://github.com/crimson206/py-ts-types",
+  "author": "crimson206",
+  "license": "MIT",
+  "devDependencies": {
+    "py-ts-types": "^0.1.0",
+    "typescript": "^4.5.5"
+  }
+}
