@@ -1,3 +1,9 @@
+wwwroot/*.js
+node_modules
+typings
+dist
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
