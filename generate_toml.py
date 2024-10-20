@@ -234,6 +234,7 @@ options = Options(
 
 dependencies = """
 crimson-ast-dev-tool
+crimson-anytree-extension
 """
 
 
