@@ -256,7 +256,7 @@ kwargs = Kwargs(
     version="0.1.0",
     name_space="crimson",
     module_name=module_name,
-    description="Your package description.",
+    description="A Python library for seamless type conversion between Python and TypeScript, facilitating interoperability in multi-language projects.",
     topics=["Topic :: Software Development :: Libraries :: Python Modules"],
     dependencies=dependencies,
 )
