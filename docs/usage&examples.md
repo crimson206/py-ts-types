@@ -1,25 +1,3 @@
-# Python-TypeScript Type Converter
-
-A Python library for seamless type conversion between Python and TypeScript, facilitating interoperability in multi-language projects.
-
-## Features
-
-- Convert Python type annotations to TypeScript types
-- Convert TypeScript type definitions back to Python annotations
-- Support for:
-  - Basic types (str, int, float, bool, None)
-  - Complex types (List, Dict, Tuple, Union, Optional)
-  - Literal types
-  - Pydantic models to TypeScript interfaces
-  - Type metadata preservation
-  - Multi-line docstring conversion
-
-## Installation
-
-```bash
-pip install crimson-py-ts-types-beta
-```
-
 ## Usage & Examples
 
 The following examples demonstrate key features and use cases of the library. Each notebook contains detailed code samples and explanations.
